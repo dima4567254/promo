@@ -1,0 +1,15 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+
+/*@import 'global';*/
+
+@import 'libs';
+
+/*медия всегда должны быть в низу */
+
+.promo {
+    background-image: url('../images/promo.bg.jpg') w920+h700 w920 w920 w920 w w w w w w w w w w w w w w w w
+}
+
+@import 'media';
